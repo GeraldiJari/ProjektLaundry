@@ -4,14 +4,6 @@ Admin
 - username : admin
 - password : admin
 
-Karyawan 1
-- username : faras
-- password : faras
-
-Karyawan 2
-- username : add
-- password : farisna
-
 Aplikasi Laundry Berbasis Web menghadirkan revolusi di industri pencucian, merevolusi cara orang merawat pakaian. Melalui platform ini, pengguna bisa mencatat setiap pelanggan, serta mengatur antar jemput pakaian dengan mudah.
 
 Antarmuka Aplikasi Laundry Berbasis Web didesain intuitif, memudahkan pengguna untuk mencatat aktivitas laundry secara cepat dan lancar. Tak hanya itu, fitur transaksi dan paketnya memberikan pembaruan tentang status pembayaran serta jadwal pengambilan dan pengiriman pakaian.
