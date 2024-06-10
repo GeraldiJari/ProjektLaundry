@@ -12,4 +12,4 @@ Dengan Aplikasi Laundry Berbasis Web, pelanggan dapat mengirit waktu dan tenaga 
 
 Aplikasi Laundry Berbasis Web menjadi terobosan modern dan inovatif di industri laundry, menyatukan teknologi canggih dengan pelayanan berkualitas demi memberikan pengalaman terbaik bagi pengguna dan pemilik usaha laundry.
 
-Then, My Ours Presentation: [Laundry](https://youtu.be/_cU0p4IEskE?si=nhPRALmUnsZhmX7h)
+Then, My Ours Presentation: [Laundry Presentation](https://youtu.be/_cU0p4IEskE?si=nhPRALmUnsZhmX7h)
