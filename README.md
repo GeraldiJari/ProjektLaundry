@@ -1,10 +1,9 @@
 ## Develop By PWD Team
 
-- **[Geraldi Jari Assaji]**: Bertanggung jawab untuk membuat bagian dari sisi User & Admin.
+- **[Geraldi Jari Assaji]**: Responsible for creating parts from User & Admin side.
 
-- **[Farras Husain]**: Bertanggung jawab untuk membuat bagian dari sisi User & Admin.
+- **[Farras Husain]**: Responsible for creating parts from User & Admin side.
 
-- 
 ### Access
 Admin
 - username : admin
